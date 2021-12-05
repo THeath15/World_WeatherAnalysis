@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+
 # World_WeatherAnalysis
 #Background
 After working on PlanMyTrip app. Beta testers liked the app and  recommended a few changes to take the app to the next level. Specifically, they recommend adding the weather description to the weather data that was already retrieved in this module. The beta testers want to  use  aninput statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the dataset of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, a travel route between the four cities as well as a marker layer map will be created.
@@ -10,6 +10,6 @@ Deliverable 1: Retrieve Weather Data - URL for Weather Map API Call was initiate
 Deliverable 2: Create a Customer Travel Destinations Map -A user input was established to filter  the data for temperature preferences to identify travel destinations and nearby hotels.  Data was cleaned for null hotels. Markers and pins were created. 
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/92903447/144728948-d3c96479-c763-47f2-81c9-b3158ff2d9c3.png)
 
-Deliverable 3: Create a Travel Itinerary Map - using the Google Maps Directions API, a travel route between the four cities as well as a marker layer map will be created.
+Deliverable 3: Create a Travel Itinerary Map - using the Google Maps Directions API, a travel route between the four cities as well as a marker layer map were created.
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/92903447/144729172-d6260a61-faeb-43ff-b6d0-06796491f9aa.png)
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/92903447/144729182-ad1b63b1-dee2-4065-a3d8-302d933770ad.png)
