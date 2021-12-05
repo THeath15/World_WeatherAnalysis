@@ -11,4 +11,5 @@ Deliverable 2: Create a Customer Travel Destinations Map -A user input was estab
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/92903447/144728948-d3c96479-c763-47f2-81c9-b3158ff2d9c3.png)
 
 Deliverable 3: Create a Travel Itinerary Map - using the Google Maps Directions API, a travel route between the four cities as well as a marker layer map will be created.
-![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/92903447/144728953-24e9cf3f-2d7d-4717-9d69-c8d8df243b86.png)
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/92903447/144729172-d6260a61-faeb-43ff-b6d0-06796491f9aa.png)
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/92903447/144729182-ad1b63b1-dee2-4065-a3d8-302d933770ad.png)
